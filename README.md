@@ -6,7 +6,7 @@ This is a series where I build a website from tutorials, video tutorials and cou
 
 https://getbootstrap.com/docs :+1:
 
-https://codingheroes.io/ :+1:
+https://startbootstrap.com/ :+1:
 
 
 ## technologies used
