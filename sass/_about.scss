@@ -1,0 +1,15 @@
+.about-section {
+
+    @media screen and (max-width: 768px) {
+        
+        .about-row {
+            display: flex;
+            flex-direction: column !important;
+            text-align: center;
+
+            & h4 {
+                margin: 1rem 0;
+            }
+        }
+    }
+}
