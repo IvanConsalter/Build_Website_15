@@ -37,3 +37,15 @@
     padding-bottom: 12.5rem;
   }
 }
+
+#mainNav.navbar-shrink {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #212529;
+}
+
+@media screen and (max-width: 992px) {
+  #mainNav {
+    background: #212529;
+  }
+}

@@ -1,0 +1,17 @@
+#mainNav.navbar-shrink {
+
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: #212529;
+
+}
+
+#mainNav {
+
+    @media screen and (max-width: 992px) {
+
+        & {
+            background: #212529;
+        }
+    } 
+}
